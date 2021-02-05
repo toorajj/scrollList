@@ -1,4 +1,4 @@
-![wireframe] (./scrollList.png "wireframe")
+![scrollList] (./scrollList.png "scrollList")
 
 
 # Technology used:
